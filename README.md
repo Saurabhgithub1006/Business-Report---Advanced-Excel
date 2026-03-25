@@ -150,20 +150,7 @@ fact_sales_monthly
 
 ---
 
-## 🚀 How to Use
 
-1. **Download** `Business_Solution.xlsx`
-2. Open in **Microsoft Excel 2016+** or **Microsoft 365**
-3. If prompted, click **Enable Editing** and **Enable Content**
-4. Navigate between sheets using the tabs at the bottom
-5. Use the **FILTERS** slicers on each sheet to drill down by region, division, or customer
-
----
-
-## 👨‍💻 Author
-
-**Saurabh Gautam Hanwate**
-M.Sc. Computational Modeling & Simulation (Applied AI) — TU Dresden
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/saurabh-hanwate)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/SaurabhHanwate)
